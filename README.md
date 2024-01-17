@@ -18,8 +18,7 @@ Visit site <a href=""><u>here.<u></a>
 <br>
 The purpose of the website is mainly for people who are fans of the brand allsaints to check it out for information to show the user how the brand started how far they've grown and to learn more about the brand that they do not know. The main target audience will be for people  who are fans of the brands and those who have discovered this brands through buying little from thier shops and also thoe who are curious.
 
-Project goals
-Show information about the photographer.
-Show what the photographer has produced.
-Show different packages on offer for the user.
-Show how to get in contact with the photographer
+## Project goals
+Show information about AllSaints.
+Show what Allsaints has produced over time.
+Show how to get in contact with the with us.
