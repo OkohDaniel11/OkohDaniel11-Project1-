@@ -6,11 +6,13 @@ body{margin: 0;
 .banner{
     text-align: right;
     background-color: black;
+    display: flex;
 }
 .logo{
     width: fit-content;
     height: 20vh;
-    margin-right: 800px;
+    margin: auto;
+    
 }
 .navbar{
     width: 100%;
@@ -47,6 +49,41 @@ body{margin: 0;
 }
 .navbar ul li:hover::after{
     width: 100%;
+}
+.parfum{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    
+}
+details{
+    color: #f0ece2;
+}
+a{
+    color: #f0ece2;
+}
+.incense{
+    height: 44vh;
+}
+.sunset{
+    height: 44vh;
+}
+.metal-wave{
+    height: 44vh;
+}
+.parfum-2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+}
+.leather-skies{
+    height: 44vh;
+}
+.flora-mortis{
+    height: 44vh;
+}
+.concrete-rain{
+    height: 44vh;
 }
 .footer-container{
     

@@ -6,11 +6,12 @@ body{margin: 0;
 .banner{
     text-align: right;
     background-color: black;
+    display: flex;
 }
 .logo{
     width: fit-content;
     height: 20vh;
-    margin-right: 800px;
+    
 }
 .navbar{
     width: 100%;
