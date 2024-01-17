@@ -30,3 +30,4 @@ This site implements very basic feature.
 ## Existing Features
 - Navigation Bar
   - Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
+![Example Image](navimg.png)
