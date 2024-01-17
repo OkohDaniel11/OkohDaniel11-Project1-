@@ -31,4 +31,4 @@ This site implements very basic feature.
 - Navigation Bar
   - Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
   <br>
-
+![NavBar](.images/navimg.jpg)
