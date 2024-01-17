@@ -8,8 +8,8 @@ Visit site <a href=""><u>here.<u></a>
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Testing](#testing)
+- [Credits](#credits)
 - [License](#license)
   
 <hr>
@@ -28,7 +28,41 @@ The purpose of the website is mainly for people who are fans of the brand allsai
 This site implements very basic feature.
 <br>
 ## Existing Features
-- Navigation Bar
+- **Navigation Bar**
   - Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
   <br>
 ![NavBar!](images/navimg.png)
+
+- **Main Content**
+  - Main sections throughout the site have a consistent layout and styling to convey the infomation on site clearly.
+  -
+
+- **Footer**
+    - The footer contains 3 icons linking to thier social media platforms.
+    -  The icon are styled in the sites primary colours and are consistent on all pages.
+ 
+- **Contact Section**
+    - On the contact page is a form to fill out to get in touch with us.
+    - Name, Email and Phone Number are mandotory fields and message box are optional.
+    - Filling the form will take them to a dump page provided by Code Institute
+ 
+- **Product Page Details**
+    - The product page entails products created by allsaints 
+    - Quick summarry about products beside images
+ 
+## Possible Future Features 
+   - Pages for items in product page
+      
+      As I go on with this page I would like to add individual pages for the items that are on the pages also for the picture to change as you hover on the pictures.
+      to have them enlarge as you hover on the pictures.
+
+   - Adding a quiz page for fun
+     
+      I want to add a quiz page as more of a fun event while browsing the website I believe it'll be more enjoyable while browsing.
+     
+  - To add a forum
+
+    I want to add a forum where people can talk about the brand and also give thier own experience either buying stuff from the brand or in stores.
+
+## Testing
+
