@@ -28,5 +28,5 @@ The purpose of the website is mainly for people who are fans of the brand allsai
 This site implements very basic feature.
 <br>
 ## Existing Features
--Navigation Bar
-  .Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
+- Navigation Bar
+  . Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
