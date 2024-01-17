@@ -16,7 +16,6 @@ Visit site <a href=""><u>here.<u></a>
 
 ## Introduction
 
-User Stories
 The purpose of the website is mainly for people who are fans of the brand allsaints to check it out for information to show the user how the brand started how far they've grown and to learn more about the brand that they do not know. The main target audience will be for people  who are fans of the brands and those who have discovered this brands through buying little from thier shops and also thoe who are curious.
 
 ## Project goals
@@ -24,3 +23,10 @@ The purpose of the website is mainly for people who are fans of the brand allsai
 1. Show information about AllSaints.
 2. Show what Allsaints has produced over time.
 3. Show how to get in contact with the with us.
+
+## Features
+This site implements very basic feature.
+<br>
+## Existing Features
+-Navigation Bar
+  .Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
