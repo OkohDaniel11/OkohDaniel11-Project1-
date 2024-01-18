@@ -72,6 +72,7 @@ This site implements very basic feature.
     I want to add a forum where people can talk about the brand and also give thier own experience either buying stuff from the brand or in stores.
 
 ## Testing
+
 **Validator Testing**
 - HTML (<a href="https://validator.w3.org/">W3C validator</a>)
   - Error: Bad value images/favicon (1).ico for attribute href on element link: Illegal character in path segment: space is not allowed.
@@ -89,16 +90,42 @@ This site implements very basic feature.
 - Accessibility ([axe DevTools](https://axe.deque.com/install-success))
   
   ![DevTools!](images/devtools.png)
+
+### Browser Testing
+
+**Layout:** Testing layout and appearance of site for consistency throughout browsers.
+
+**Functionality:** Ensuring all links, navigation and form submit functions as expected throughout browsers.
+
+| Browser     | Layout      | Functionality |
+| :---------: | :----------:| :-----------: |
+| Chrome      |✔️    |✔️       |
+| Edge        | ✔️   |✔️       |
+| Opera       |✔️    |✔️       |
+| Firefox     |❌    |✔️       |
+| Safari      |❌    |❌       |
+
+
+### Manual Testing
+
+| Feature     | Expect      | Action        | Result |
+| :---------: | :----------:| :-----------: | :-----:|
+| **Logo Icon**   | When clicked, home page will open   | Clicked Logo Icon  | Home page opened when clicked |
+| **Navbar**  | When clicked, the respective page will open  | Clicked all individual navbar buttons | All respective pages opened when button was clicked |
+| **Contact link on About page main** | When clicked,the Contact page will open | Click contact link | Contact page opens |
+| **Social link icons** | Social link icons open relevant websites in new tab when clicked| Click all individual icons | All respective sites open in new tab |
+| **Required form fields** | form will not submitif required fields are blank and fields will be highlighted and flagged | Fill out form incorrectly | Form does not submit and highlights incorrectly filled in fields |
+
   
 ## Credits
 
 ### Media
 - All pictures were taken from Google Images and AllSaint Instagram
-- Logo was taken from ![Font Awesome!](https://fontawesome.com/icons/css3?f=brands&s=solid)
+- Logo was taken from [Font Awesome](https://fontawesome.com/icons/css3?f=brands&s=solid)
 - 
 ### Content
-- Fonts were taken from !W3Schools[!](https://www.w3schools.com/cssref/css_websafe_fonts.php)
-- CSS color design were taken from ![She Codes Coding tool ](https://palettes.shecodes.io/palettes/brown/color)
+- Fonts were taken from [W3Schools](https://www.w3schools.com/cssref/css_websafe_fonts.php)
+- CSS color design were taken from [She Codes Coding tool](https://palettes.shecodes.io/palettes/brown/color)
   
 ## License
 
