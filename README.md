@@ -76,6 +76,12 @@ This site implements very basic feature.
 - HTML (<a href="https://validator.w3.org/">W3C validator</a>)
   - Error: Bad value images/favicon (1).ico for attribute href on element link: Illegal character in path segment: space is not allowed.
    From line 11, column 9; to line 11, column 75  ```<link rel="icon" href="images/favicon (1).ico" type="image/x-icon">```
+- CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
+  - No Errors Found
+-Performance, Accessibility, SEO, Best Practices ([Lighthouse Chrome DevTools])
+  <br><br>
+  ![Lighthouse Image!]()
+- Accessibility ([axe DevTools](https://axe.deque.com/install-success))
 ## Credits
 ## License
 
