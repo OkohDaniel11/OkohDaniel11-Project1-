@@ -65,4 +65,6 @@ This site implements very basic feature.
     I want to add a forum where people can talk about the brand and also give thier own experience either buying stuff from the brand or in stores.
 
 ## Testing
+## Credits
+## License
 
