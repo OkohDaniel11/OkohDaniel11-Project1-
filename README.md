@@ -1,7 +1,7 @@
 # All Saints Parfum Collection.
 This website is created as an infomation website on perfume(All Saints) and history of it. Discover an aromatic collection of perfumes crafted to enkindle emotions and leave a great impression. This website is a gateway to a world of captivating scents that cater to diverse preferences. This site provides a detailed information on the All Saints Brand giving the how and when it started, how this brand grew to be a household name and a lilttle quiz for our collectors for this brands.
 <hr>
-Visit site <a href=""><u>here.<u></a>
+Visit site <a href="https://okohdaniel11.github.io/Project1/index.html"><u>here.<u></a>
 <br>
   
 ## Table of Contents
@@ -76,12 +76,29 @@ This site implements very basic feature.
 - HTML (<a href="https://validator.w3.org/">W3C validator</a>)
   - Error: Bad value images/favicon (1).ico for attribute href on element link: Illegal character in path segment: space is not allowed.
    From line 11, column 9; to line 11, column 75  ```<link rel="icon" href="images/favicon (1).ico" type="image/x-icon">```
+
+
 - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
   - No Errors Found
--Performance, Accessibility, SEO, Best Practices ([Lighthouse Chrome DevTools])
-  <br><br>
-  ![Lighthouse Image!]()
+  
+  
+- Performance, Accessibility, SEO, Best Practices ([Lighthouse Chrome DevTools])
+  
+  ![Lighthouse Image!](images/lighthouseimg.png)
+  
 - Accessibility ([axe DevTools](https://axe.deque.com/install-success))
+  
+  ![DevTools!](images/devtools.png)
+  
 ## Credits
+
+### Media
+- All pictures were taken from Google Images and AllSaint Instagram
+- Logo was taken from ![Font Awesome!](https://fontawesome.com/icons/css3?f=brands&s=solid)
+- 
+### Content
+- Fonts were taken from !W3Schools[!](https://www.w3schools.com/cssref/css_websafe_fonts.php)
+- CSS color design were taken from ![She Codes Coding tool ](https://palettes.shecodes.io/palettes/brown/color)
+  
 ## License
 
