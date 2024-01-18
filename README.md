@@ -72,6 +72,10 @@ This site implements very basic feature.
     I want to add a forum where people can talk about the brand and also give thier own experience either buying stuff from the brand or in stores.
 
 ## Testing
+**Validator Testing**
+- HTML (<a href="https://validator.w3.org/">W3C validator</a>)
+  - Error: Bad value images/favicon (1).ico for attribute href on element link: Illegal character in path segment: space is not allowed.
+   From line 11, column 9; to line 11, column 75  ```<link rel="icon" href="images/favicon (1).ico" type="image/x-icon">```
 ## Credits
 ## License
 
