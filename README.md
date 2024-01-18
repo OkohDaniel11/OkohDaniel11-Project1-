@@ -142,7 +142,7 @@ Alternatively you can **Clone** or **Fork** this repository into your GitHub acc
 ### Media
 - All pictures were taken from Google Images and AllSaint Instagram
 - Logo was taken from [Font Awesome](https://fontawesome.com/icons/css3?f=brands&s=solid)
-- 
+  
 ### Content
 - Fonts were taken from [W3Schools](https://www.w3schools.com/cssref/css_websafe_fonts.php)
 - CSS color design were taken from [She Codes Coding tool](https://palettes.shecodes.io/palettes/brown/color)
