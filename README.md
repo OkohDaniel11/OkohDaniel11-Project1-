@@ -18,6 +18,13 @@ Visit site <a href="https://okohdaniel11.github.io/Project1/index.html"><u>here.
 
 The purpose of the website is mainly for people who are fans of the brand allsaints to check it out for information to show the user how the brand started how far they've grown and to learn more about the brand that they do not know. The main target audience will be for people  who are fans of the brands and those who have discovered this brands through buying little from thier shops and also thoe who are curious.
 
+## Design
+
+This site was created and designed with young teens/adults or adults in mind who are looking for information and access to this very specific brand and more so fans of the brand. The content is short and informative, the style colourful and reassuring.
+
+### Wireframes
+- The first wireframe in [Balsamiq](https://balsamiq.com/wireframes/?gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3J5qFfscEzf2917oQWIg_2ia6g0iC3Cg5eah0cevflcpUeu585mxIAaAmXtEALw_wcB) is a very simple design.
+
 ## Project goals
 
 1. Show information about AllSaints.
@@ -115,6 +122,25 @@ This site implements very basic feature.
 | **Contact link on About page main** | When clicked,the Contact page will open | Click contact link | Contact page opens |
 | **Social link icons** | Social link icons open relevant websites in new tab when clicked| Click all individual icons | All respective sites open in new tab |
 | **Required form fields** | form will not submitif required fields are blank and fields will be highlighted and flagged | Fill out form incorrectly | Form does not submit and highlights incorrectly filled in fields |
+
+
+### Deployment
+
+This site was deployed via GitHub pages using the following steps:
+- From the GitHub repository, navigate to **Settings**
+- In the left-hand navigation section select **Pages**
+- From the source section drop-down menu change Branch from **none** to **main** and click the **Save**
+- After several minutes the website is live and will be automatically refreshed with each Git push command.
+
+The link to the live site is: https://okohdaniel11.github.io/Project1/index.html 
+
+To run locally:
+- Log into GitHub and click on repository to download ([Project1](https://okohdaniel11.github.io/Project1/index.html))
+- Select **Code** and click "Download the Zip file.
+- Once download is completed, extract ZIP file and use in your local environment.
+
+Alternatively you can **Clone** or **Fork** this repository into your GitHub account.
+
 
   
 ## Credits
