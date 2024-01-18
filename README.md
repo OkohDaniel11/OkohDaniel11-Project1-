@@ -47,7 +47,7 @@ This site implements very basic feature.
 - **Contact Section**
     - On the contact page is a form to fill out to get in touch with us.
     - Name, Email and Phone Number are mandotory fields and message box are optional.
-    - Filling the form will take them to a dump page provided by Code Institute
+    - Filling the form will take them to a dump page provided by W3Schools
       <br><br>
       ![Contact Form!](images/contactform.png)
  
