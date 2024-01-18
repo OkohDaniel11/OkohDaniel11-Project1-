@@ -37,7 +37,7 @@ This site implements very basic feature.
 
 - **Main Content**
   - Main sections throughout the site have a consistent layout and styling to convey the infomation on site clearly.
-  -
+
 
 - **Footer**
     - The footer contains 3 icons linking to thier social media platforms.
