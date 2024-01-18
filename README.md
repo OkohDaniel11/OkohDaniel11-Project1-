@@ -31,6 +31,7 @@ This site implements very basic feature.
 - **Navigation Bar**
   - Featured on the header all four pages on the right includes Home page, About us Page, Products Page, Contact Page with logo on the left aswell.
   <br>
+  <br>
 ![NavBar!](images/navimg.png)
 
 - **Main Content**
@@ -40,15 +41,21 @@ This site implements very basic feature.
 - **Footer**
     - The footer contains 3 icons linking to thier social media platforms.
     -  The icon are styled in the sites primary colours and are consistent on all pages.
+      <br><br>
+      ![Footer!](images/footerimg.png)
  
 - **Contact Section**
     - On the contact page is a form to fill out to get in touch with us.
     - Name, Email and Phone Number are mandotory fields and message box are optional.
     - Filling the form will take them to a dump page provided by Code Institute
+      <br><br>
+      ![Contact Form!](images/contactform.png)
  
 - **Product Page Details**
     - The product page entails products created by allsaints 
     - Quick summarry about products beside images
+      <br><br>
+      ![Products Page Example!](images/productimg.png)
  
 ## Possible Future Features 
    - Pages for items in product page
