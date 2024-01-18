@@ -18,12 +18,6 @@ Visit site <a href="https://okohdaniel11.github.io/Project1/index.html"><u>here.
 
 The purpose of the website is mainly for people who are fans of the brand allsaints to check it out for information to show the user how the brand started how far they've grown and to learn more about the brand that they do not know. The main target audience will be for people  who are fans of the brands and those who have discovered this brands through buying little from thier shops and also thoe who are curious.
 
-## Design
-
-This site was created and designed with young teens/adults or adults in mind who are looking for information and access to this very specific brand and more so fans of the brand. The content is short and informative, the style colourful and reassuring.
-
-### Wireframes
-- The first wireframe in [Balsamiq](https://balsamiq.com/wireframes/?gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3J5qFfscEzf2917oQWIg_2ia6g0iC3Cg5eah0cevflcpUeu585mxIAaAmXtEALw_wcB) is a very simple design.
 
 ## Project goals
 
